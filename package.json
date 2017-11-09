@@ -5,7 +5,7 @@
   "description": "Adds apiDoc tags to autocomplete+ package",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DWand/Atom_autocomplete-apidoc",
+    "url": "https://github.com/DWand/Atom_autocomplete-apidoc"
   },
   "license": "MIT",
   "engines": {
